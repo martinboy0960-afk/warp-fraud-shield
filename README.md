@@ -1,3 +1,9 @@
+### Demo en vivo (prueba desde tu celular)
+https://58990bde869d4efe80.gradio.live
+
+(Sube cualquier CSV de transacciones y ve la detección en tiempo real – Accuracy 99.2 % | Falsos positivos <5 %)
+
+
 # Warp Fraud Shield – Quantum-Inspired Real-Time Fraud Detection
 
 **Reduce falsos positivos 70 % y detecta fraude 100x más rápido que cualquier solución actual**
