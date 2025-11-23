@@ -41,7 +41,7 @@ $5-10 M USD para:
 
 Contacto directo:  
 Martín Salas – WhatsApp +52 668 540 7829  
-martin.salas@proton.me
+martinboy96@gmail.com
 
 Paper relacionado (rejuvenecimiento humano –18.4 años):  
 https://doi.org/10.5281/zenodo.17668611
